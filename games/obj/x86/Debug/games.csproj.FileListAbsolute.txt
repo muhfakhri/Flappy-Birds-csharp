@@ -1,0 +1,15 @@
+C:\Users\dimas\AppData\Local\Temporary Projects\games\obj\x86\Debug\games.Properties.Resources.resources
+C:\Users\dimas\AppData\Local\Temporary Projects\games\obj\x86\Debug\games.csproj.GenerateResource.Cache
+C:\Users\dimas\AppData\Local\Temporary Projects\games\obj\x86\Debug\Flappy_Bird_Windows_Form.Form1.resources
+C:\Users\dimas\AppData\Local\Temporary Projects\games\bin\Debug\games.exe
+C:\Users\dimas\AppData\Local\Temporary Projects\games\bin\Debug\games.pdb
+C:\Users\dimas\AppData\Local\Temporary Projects\games\obj\x86\Debug\games.exe
+C:\Users\dimas\AppData\Local\Temporary Projects\games\obj\x86\Debug\games.pdb
+C:\Users\dimas\documents\visual studio 2010\Projects\games\games\obj\x86\Debug\games.exe
+C:\Users\dimas\documents\visual studio 2010\Projects\games\games\obj\x86\Debug\games.pdb
+C:\Users\dimas\documents\visual studio 2010\Projects\games\games\bin\Debug\games.exe
+C:\Users\dimas\documents\visual studio 2010\Projects\games\games\bin\Debug\games.pdb
+C:\Users\dimas\documents\visual studio 2010\Projects\games\games\obj\x86\Debug\Flappy_Bird_Windows_Form.Form1.resources
+C:\Users\dimas\documents\visual studio 2010\Projects\games\games\obj\x86\Debug\games.Properties.Resources.resources
+C:\Users\dimas\documents\visual studio 2010\Projects\games\games\obj\x86\Debug\games.csproj.GenerateResource.Cache
+C:\Users\dimas\documents\visual studio 2010\Projects\games\games\obj\x86\Debug\games.csprojResolveAssemblyReference.cache

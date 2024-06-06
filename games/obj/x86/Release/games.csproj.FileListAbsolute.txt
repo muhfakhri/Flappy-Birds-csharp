@@ -1,0 +1,19 @@
+C:\Users\dimas\documents\visual studio 2010\Projects\games\games\bin\Release\games.exe
+C:\Users\dimas\documents\visual studio 2010\Projects\games\games\bin\Release\games.pdb
+C:\Users\dimas\documents\visual studio 2010\Projects\games\games\obj\x86\Release\games.csprojResolveAssemblyReference.cache
+C:\Users\dimas\documents\visual studio 2010\Projects\games\games\obj\x86\Release\Flappy_Bird_Windows_Form.Form1.resources
+C:\Users\dimas\documents\visual studio 2010\Projects\games\games\obj\x86\Release\games.Properties.Resources.resources
+C:\Users\dimas\documents\visual studio 2010\Projects\games\games\obj\x86\Release\games.csproj.GenerateResource.Cache
+C:\Users\dimas\documents\visual studio 2010\Projects\games\games\obj\x86\Release\games.exe
+C:\Users\dimas\documents\visual studio 2010\Projects\games\games\obj\x86\Release\games.pdb
+C:\Users\USERR\Downloads\games\games\bin\Release\games.exe
+C:\Users\USERR\Downloads\games\games\bin\Release\games.pdb
+C:\Users\USERR\Downloads\games\games\obj\x86\Release\games.csproj.AssemblyReference.cache
+C:\Users\USERR\Downloads\games\games\obj\x86\Release\Flappy_Bird_Windows_Form.Form1.resources
+C:\Users\USERR\Downloads\games\games\obj\x86\Release\games.Properties.Resources.resources
+C:\Users\USERR\Downloads\games\games\obj\x86\Release\games.csproj.GenerateResource.cache
+C:\Users\USERR\Downloads\games\games\obj\x86\Release\games.csproj.CoreCompileInputs.cache
+C:\Users\USERR\Downloads\games\games\obj\x86\Release\games.exe
+C:\Users\USERR\Downloads\games\games\obj\x86\Release\games.pdb
+C:\Users\USERR\Downloads\games\games\obj\x86\Release\games.FlappyBird.resources
+C:\Users\USERR\Downloads\games\games\obj\x86\Release\games.help.resources
