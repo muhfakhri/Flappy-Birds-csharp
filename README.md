@@ -12,14 +12,6 @@ This project involves creating a basic version of the popular game "Flappy Bird"
 
 
 
-## Contributing
-
-Contributions are always welcome!
-
-See `contributing.md` for ways to get started.
-
-Please adhere to this project's `code of conduct`.
-
 
 ## Screenshots
 
