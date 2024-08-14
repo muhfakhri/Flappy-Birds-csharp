@@ -1,6 +1,6 @@
 
 # FlappyBirds 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/) <br>
 This project involves creating a basic version of the popular game "Flappy Bird" using C#. The game is designed to be a simple and fun way to practice programming skills.
 
 
